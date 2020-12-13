@@ -7,4 +7,4 @@ Dotan Entin's Portfolio:
 2. Python file named Project 3 - Python Data Analysis - a Python project from the course, python data analysis
 3. SQL file - Project 1 - Mobile Gaming Complete
   3.1 PDF document of the project
-4. SQL file - Hospital - Data analysis in SQL
+4. SQL file - Hospital Questions - Data analysis in SQL
