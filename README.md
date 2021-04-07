@@ -8,5 +8,5 @@ Dotan Entin's Portfolio:
 3. SQL file - Project 1 - Mobile Gaming Complete
   3.1 PDF document of the project
 4. SQL file - Hospital Questions - Data analysis in SQL
-5. Dataset Analysis Flights Timing - Example of data analysis of flights timings, based on tables: airlines_lookup.csv, airports-lookup.csv and flights_data.csv
+5. Python file - Dataset Analysis Flights Timing: Example of data analysis of flights timings, based on tables: airlines_lookup.csv, airports-lookup.csv and flights_data.csv
 6. Booking - Product analysis.ppsx - A small presentation of a Product analysis on Booking.Com
